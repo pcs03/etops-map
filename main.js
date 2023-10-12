@@ -174,7 +174,7 @@ const vectorSource = new VectorSource({
 });
 
 vectorSource.addFeatures([
-  new Feature(new Circle(fromLonLat([113.591389, 22.149444]), 2481309)),
+  new Feature(new Circle(fromLonLat([103.62, 36.515]), 2481309)),
   new Feature(new Circle(fromLonLat([87.474167, 43.907222]), 2481309)),
   new Feature(new Circle(fromLonLat([50.046667, 40.4675]), 2481309)),
   new Feature(new Circle(fromLonLat([19.261944, 47.439444]), 2481309)),
