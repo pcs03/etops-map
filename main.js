@@ -21,7 +21,7 @@ const styles = {
   Point: new Style({
     image: image,
     text: new OlText({
-      font: "12px Calibri,sans-serif",
+      font: "20px Calibri,sans-serif",
       placement: "line",
       fill: new Fill({
         color: "#000",
@@ -95,7 +95,7 @@ const geojsonObject = {
       type: "Feature",
       geometry: {
         type: "Point",
-        coordinates: fromLonLat([113.591389, 22.149444]),
+        coordinates: fromLonLat([103.62, 36.515]),
       },
       properties: {
         name: "ZLLL",
